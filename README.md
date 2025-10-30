@@ -6,4 +6,5 @@
 
 ### Práctica 27-oct
 Shell Sort
+
 ![alt text](assets/sortShell.png)
